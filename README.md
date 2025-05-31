@@ -104,16 +104,16 @@
         <code>Newbie</code>
       </td>
       <td align="center" width="200">
-        <h1>155</h1>
+        <h1>1400</h1>
         <strong>LeetCode Solved</strong>
         <br>
-        <code>Problems</code>
+        <code>LeetCode Rating</code>
       </td>
       <td align="center" width="200">
         <h1>1213</h1>
         <strong>CodeChef Rating</strong>
         <br>
-        <code>Unrated</code>
+        <code>One Star</code>
       </td>
     </tr>
   </table>
