@@ -78,6 +78,8 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
+
+
 <!-- Competitive Programming Stats - Dark Theme -->
 
 <div align="center">
@@ -119,14 +121,7 @@
     <img src="https://img.shields.io/badge/Medium-65-f39c12?style=flat-square&labelColor=0d1117" alt="Medium">
     <img src="https://img.shields.io/badge/Hard-4-e74c3c?style=flat-square&labelColor=0d1117" alt="Hard">
   </a>
-  <!-- Platform Distribution 
-  <h3>Platform Activity</h3>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Codeforces-55%25-58d3b9?style=flat-square&labelColor=0d1117" alt="Codeforces">
-    <img src="https://img.shields.io/badge/LeetCode-35%25-58d3b9?style=flat-square&labelColor=0d1117" alt="LeetCode">
-    <img src="https://img.shields.io/badge/Others-10%25-58d3b9?style=flat-square&labelColor=0d1117" alt="Others">
-  </a>-->
   
   <br><br>
   <i>Last updated: June 1, 2025</i>
-</div>
+</div> 
