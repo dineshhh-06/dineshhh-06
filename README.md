@@ -105,9 +105,9 @@
       </td>
       <td align="center" width="200">
         <h1>155</h1>
-        <strong>Problems Solved</strong>
+        <strong>LeetCode Solved</strong>
         <br>
-        <code>LeetCode</code>
+        <code>Problems</code>
       </td>
       <td align="center" width="200">
         <h1>1213</h1>
