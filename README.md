@@ -81,31 +81,10 @@
 <div align="center">
 
   <!-- Title with custom styling -->
-  <h2>🏆 Competitive Programming Stats</h2>
+  <h2 align="left">🏆 Competitive Programming Stats</h2>
 
   <!-- Main Stats Cards - Top Row -->
- <div style="display: flex; justify-content: center; align-items: center; gap: 25px; padding: 15px;">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/dxnxsh06" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" 
-         alt="Codeforces" 
-         style="height: 42px; width: 42px; filter: brightness(0.9) drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
-  </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/dxnxsh06/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" 
-         alt="LeetCode" 
-         style="height: 42px; width: 42px; filter: brightness(0.9) drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
-  </a>
-  
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/dxnxsh06" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" 
-         alt="CodeChef" 
-         style="height: 42px; width: 42px; filter: brightness(0.9) drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
-  </a>
-</div>
+
 
   <!-- Stats Summary in GitHub-compatible table -->
   <table>
