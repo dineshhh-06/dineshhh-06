@@ -105,9 +105,9 @@
       </td>
       <td align="center" width="200">
         <h1>1400</h1>
-        <strong>LeetCode Solved</strong>
+        <strong>LeetCode Rating</strong>
         <br>
-        <code>LeetCode Rating</code>
+        <code>Learner</code>
       </td>
       <td align="center" width="200">
         <h1>1213</h1>
@@ -135,5 +135,5 @@
   </a>
   
   <br><br>
-  <i>Last updated: May 31, 2025</i>
+  <i>Last updated: June 1, 2025</i>
 </div>
