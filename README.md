@@ -84,15 +84,15 @@
   <h2>🏆 Competitive Programming Stats</h2>
 
   <!-- Main Stats Cards - Top Row -->
-  <a href="https://codeforces.com/profile/dxnxsh06">
-    <img src="https://img.shields.io/badge/Codeforces-971-58d3b9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces">
-  </a>
-  <a href="https://leetcode.com/dxnxsh06/">
-    <img src="https://img.shields.io/badge/LeetCode-155_problems-58d3b9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode">
-  </a>
-  <a href="https://www.codechef.com/users/dxnxsh06">
-    <img src="https://img.shields.io/badge/CodeChef-1213-58d3b9?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef">
-  </a>
+  <a href="https://codeforces.com/profile/dxnxsh06" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" style="height:40px; width:40px; color:#58d3b9; fill:#58d3b9;">
+</a>
+<a href="https://leetcode.com/dxnxsh06/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" style="height:40px; width:40px; color:#58d3b9; fill:#58d3b9;">
+</a>
+<a href="https://www.codechef.com/users/dxnxsh06" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" style="height:40px; width:40px; color:#58d3b9; fill:#58d3b9;">
+</a>
 
   <!-- Stats Summary in GitHub-compatible table -->
   <table>
