@@ -76,7 +76,6 @@
 
 ###
 <img src="https://raw.githubusercontent.com/dineshhh-06/dineshhh-06/output/snake.svg" alt="Snake animation" />
-###
 
 <!-- Competitive Programming Stats - Dark Theme -->
 
