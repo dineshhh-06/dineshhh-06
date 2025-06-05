@@ -100,13 +100,13 @@
         <code>Newbie</code>
       </td>
       <td align="center" width="200">
-        <h1>1400</h1>
+        <h1>1462</h1>
         <strong>LeetCode Rating</strong>
         <br>
         <code>Learner</code>
       </td>
       <td align="center" width="200">
-        <h1>1213</h1>
+        <h1>1234</h1>
         <strong>CodeChef Rating</strong>
         <br>
         <code>One Star</code>
