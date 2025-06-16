@@ -12,7 +12,7 @@
 
 🎓 **AIML Undergrad**  
 ⚔️ **Competitive Programmer**  
-💻 **Languages:** Python, Java  
+💻 **Languages:** Python, Java, C++  
 🛠️ **Skills:** Data Structures & Algorithms, Problem Solving, OOP, Git & GitHub, VS Code, APIs, Web Scraping  
 🌐 **CP Profiles:**  
 [LeetCode](https://leetcode.com/u/dxnxsh06/) • [CodeChef](https://www.codechef.com/users/dxnxsh06) • [Codeforces](https://codeforces.com/profile/dxnxsh06) • [InterviewBit](https://www.interviewbit.com/profile/dxnxsh-06/) • [AtCoder](https://atcoder.jp/users/d_nex) • [CSES](https://cses.fi/user/334483/)
